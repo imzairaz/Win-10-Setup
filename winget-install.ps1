@@ -4,13 +4,13 @@
 
 .GUID 3b581edb-5d90-4fa1-ba15-4f2377275463
 
-.AUTHOR asherto, 1ckov
+.AUTHOR imzairaz, 1ckov
 
-.COMPANYNAME asheroto
+.COMPANYNAME imzairaz
 
 .TAGS PowerShell Windows winget win get install installer fix script
 
-.PROJECTURI https://github.com/asheroto/winget-installer
+.PROJECTURI https://github.com/imzairaz/winget-installer
 
 .RELEASENOTES
 [Version 0.0.1] - Initial Release.
@@ -30,9 +30,9 @@
     winget-install
 .NOTES
     Version      : 0.0.4.1
-    Created by   : asheroto
+    Created by   : imzairaz
 .LINK
-    Project Site: https://github.com/asheroto/winget-installer
+    Project Site: https://github.com/imzairaz/winget-installer
 #>
 
 
