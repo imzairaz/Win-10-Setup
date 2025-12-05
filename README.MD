@@ -157,7 +157,7 @@ oh-my-posh --version
 
 ---
 
-## ⚡ 10️⃣ Setup Custom Fastfetch
+## ⚡ 1️⃣0️⃣ Setup Custom Fastfetch
 
 1. Check your PowerShell profile path:
 
