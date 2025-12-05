@@ -159,7 +159,7 @@ oh-my-posh --version
 
 ## ⚡ 1️⃣0️⃣ Setup Custom Fastfetch
 
-1. Check your PowerShell profile path:
+### Step 1 Check your PowerShell profile path:
 
 ```powershell
 $PROFILE
@@ -167,13 +167,13 @@ $PROFILE
 
 > Example: `C:\Users\YOUR_USERNAME\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1`
 
-2. If needed, create a new profile:
+### Step 2 If needed, create a new profile:
 
 ```powershell
 New-Item -Path $PROFILE.CurrentUserAllHosts -Type File -Force
 ```
 
-3. Copy Fastfetch files from my repo to:
+### Step 3 Copy Fastfetch files from my repo to:
 
 ```text
 C:\Users\YOUR_USERNAME\.config\fastfetch
@@ -181,9 +181,9 @@ C:\Users\YOUR_USERNAME\.config\fastfetch
 
 > Make sure the `.config` folder is hidden.
 
-4. Open `config.jsonc` inside the folder and set your **username** at the source line.
+### Step 4 Open `config.jsonc` inside the folder and set your **username** at the source line.
 
-5. Replace your profile file with my `profile.ps1` from the repo:
+### Step 5 Replace your profile file with my `profile.ps1` from the repo:
 
 ```text
 C:\Users\YOUR_USERNAME\Documents\WindowsPowerShell\profile.ps1
@@ -191,7 +191,7 @@ C:\Users\YOUR_USERNAME\Documents\WindowsPowerShell\profile.ps1
 
 > Open `profile.ps1` and update your username.
 
-6. Open a new terminal → BoooM! 🎉
+### Step 6 Open a new terminal → BoooM! 🎉
 
 ---
 
